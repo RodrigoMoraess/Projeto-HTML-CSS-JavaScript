@@ -1,2 +1,3 @@
 # Projeto-HTML-CSS-JavaScript
-Este projeto com objetivo de estudos, pretende criar um Quiz com perguntas de Programação usando as seguintes tecnologias: HTML, CSS e JavaScript.
+Este é um projeto de um Quiz Interativo desenvolvido para testar conhecimentos técnicos em programação e desenvolvimento web. O projeto foi construído focado em semântica HTML, estilização moderna com CSS e manipulação básica de dados com JavaScript.
+![Website](assets/Screenshot_1)
